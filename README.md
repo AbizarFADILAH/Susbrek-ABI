@@ -31,17 +31,17 @@ apt install curl
 * 
 # download script
 ```html
-git clone https://github.com/fisabiliyusri/Spam_Unlimited
+git clone https://github.com/AbizarFADILAH/Susbrek-ABI
 ```
 * masuk ke folder
 ```html
-cd Spam_Unlimited
+cd susbrek-ABI
 ```
 * untuk jalankan spam sms
 ```html
-php spamsms.php
+php susbrekya.php
 ```
 * untuk jalankan spam call
 ```html
-python spamcall.py
+python susbrekya.py
 ```
